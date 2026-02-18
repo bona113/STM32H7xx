@@ -107,7 +107,7 @@
 #define AUXOUTPUT1_PORT             GPIOB                       // Spindle direction - FAN2
 #define AUXOUTPUT1_PIN              5
 #define AUXOUTPUT2_PORT             GPIOB                       // Spindle enable - FAN1
-#define AUXOUTPUT2_PIN              6
+#define AUXOUTPUT2_PIN              5
 #define AUXOUTPUT3_PORT             GPIOB                       // Coolant flood - HEAT0
 #define AUXOUTPUT3_PIN              3
 #define AUXOUTPUT4_PORT             GPIOB                       // Coolant mist - HEAT1
